@@ -1,6 +1,6 @@
 # GoogleCTF2020 - PASTEURIZE
 
-Đang ngồi lướt lướt youtube xem mấy video của [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w), ông này chủ yếu làm về pwn cực kỳ hay cho những ai theo mảng này (RE và pwn nhé :V ) dù mình không phỉa pwner nhưng vẫn hay xem vì nó hay, thì thấy có 1 video về cái googleCTF2020 và mảng web ??? Mặc dù đã bị spoil cực mạnh nhưng mình vẫn sẽ làm coi như là đọc writeup rồi làm lại xem mình có hiểu không và đây là writeUp của mình về bài PASTEURIZE còn bài mình xem là bài Tech Support :=) 
+Đang ngồi lướt lướt youtube xem mấy video của [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w), ông này chủ yếu làm về pwn cực kỳ hay cho những ai theo mảng này (RE và pwn nhé :V ) dù mình không phải pwner nhưng vẫn hay xem vì nó hay, thì thấy có 1 video về cái googleCTF2020 và mảng web ??? Mặc dù đã bị spoil cực mạnh nhưng mình vẫn sẽ làm coi như là đọc writeup rồi làm lại xem mình có hiểu không và đây là writeUp của mình về bài PASTEURIZE còn bài mình xem là bài Tech Support :=) 
 
 # Khám phá 
  Web có 2 chức năng 1 là tạo post và cái thứ 2 là gửi cho "Mi Ke" - một idol giới trẻ. Nhìn qua dạng đề kết hợp với kinh nghiệm vài bữa chơi CTF của mình thì chắc chắn bài này là về client side hay nói rõ hơn là XSS còn XSS loại nào thì chưa biết. 
