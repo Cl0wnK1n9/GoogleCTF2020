@@ -1,1 +1,0 @@
-# GoogleCTF2020 - PASTEURIZE
